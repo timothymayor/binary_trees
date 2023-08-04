@@ -1,7 +1,7 @@
 # C - Binary trees
 
 In this project I learnt about the details, advantages,
-and disadvantages of using trees as data structures. I learnt how to qualify trees as well as how to traverse them. Throughout the project, I implemented binary, binary search, AVL, and Max Binary Heap trees.
+and disadvantages of using trees as data structures. I learnt howqualify trees as well as how to traverse them. Throughout the project, I implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests :heavy_check_mark:
 
@@ -259,6 +259,7 @@ Function Prototypes
     <summary>Timothy Mayor</summary>
     <ul>
     <li><a href="https://github.com/timothymayor">Github</a></li>
+    <li><a href="https://twitter.com/timothymayor24">Twitter</a></li>
     <li><a href="mailto:timothymayor24@gmail.com">e-mail</a></li>
     </ul>
 </details>
